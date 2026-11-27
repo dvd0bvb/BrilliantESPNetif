@@ -1,0 +1,5 @@
+version: "0.1.0"
+description: "Modern C++ wrapper around ESP-IDF esp_netif and related network services"
+url: "https://github.com/dvd0bvb/BrilliantESPNetif"
+dependencies:
+  idf: ">=6.1"
